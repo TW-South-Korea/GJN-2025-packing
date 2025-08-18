@@ -1,13 +1,13 @@
-# ✈️ Thailand Travel Packing Guide 2025
+# 🧳 South Korea Packing Guide 2025
 
-This repository contains a mobile-friendly, collapsible task list for your upcoming Thailand trip in 2025.
+This repository contains a mobile-friendly, collapsible task list for your upcoming South Korea trip in 2025.
 This provides a mobile-optimised, colour-coded, and collapsible packing checklist for multi-traveller trips.
 Designed to visually track responsibilities and packing status across family members.
 
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the live guide here:  
-**https://tw-thailand.github.io/GJN-2025-packing/**
+**https://tw-South Korea.github.io/GJN-2025-packing/**
 
 ## ✨ Features
 
