@@ -7,7 +7,7 @@ Designed to visually track responsibilities and packing status across family mem
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the live guide here:  
-**https://tw-South Korea.github.io/GJN-2025-packing/**
+**https://tw-south-korea.github.io/GJN-2025-packing/**
 
 ## ✨ Features
 
