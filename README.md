@@ -1,7 +1,7 @@
 # 🧳 South Korea Packing Guide 2025
 
-This repository contains a mobile-friendly, collapsible task list for your upcoming South Korea trip in 2025.
-This provides a mobile-optimised, colour-coded, and collapsible packing checklist for multi-traveller trips.
+This repositor provides a mobile-optimised, colour-coded, and collapsible task list for items to pack for a Korea trip.
+
 Designed to visually track responsibilities and packing status across family members.
 
 ## ✅ Live Site
@@ -9,21 +9,16 @@ Designed to visually track responsibilities and packing status across family mem
 Once deployed via GitHub Pages, access the live guide here:  
 **https://tw-south-korea.github.io/GJN-2025-packing/**
 
+
+
 ## ✨ Features
 
 * Collapsible packing categories
-* Colour-coded ticks for each person:
-
-  * Sema: Lavender 💜
-  * Selin: Soft Pink 🩷
-  * Katie: Mint Green 💚
-  * Gavin: Sky Blue 💙
-
 * Mobile-friendly with horizontal scroll
 * Compact column widths for minimal swiping
 * Highlights who is responsible for what
 
-## 📂 Current Categories
+## 📌 Guide Sections
 
 1. Onboard
 2. Clothing
